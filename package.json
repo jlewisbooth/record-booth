@@ -1,0 +1,22 @@
+{
+  "name": "record-booth",
+  "version": "1.0.0",
+  "description": "A web application to allow a rasberry pi to identify vinyl records and display album artwork and information about the artist on a designated screen.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlewisbooth/record-booth.git"
+  },
+  "author": "Jack Booth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlewisbooth/record-booth/issues"
+  },
+  "homepage": "https://github.com/jlewisbooth/record-booth#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
